@@ -17,7 +17,7 @@
 
 ---
 ## About me 🔎
-I am a Full Stack software engineer local to the NYC metro area!
+I am a Full Stack software engineer local to the Chattanooga, TN area!
 
 - I work as a software engineer at 100devs
 - I make fullstack webapps, static sites, landing pages, you name it.
