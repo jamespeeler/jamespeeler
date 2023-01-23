@@ -7,9 +7,6 @@
   <a href="https://www.twitter.com/james_peeler_">
     <img src="https://img.shields.io/badge/Twitter-2a2d41?style=for-the-badge&logo=twitter&logoColor=white">
   </a>
-  <a href="https://angel.co/u/james-peeler-a">
-    <img src="https://img.shields.io/badge/Angellist-2a2d41?style=for-the-badge&logo=angellist&logoColor=white">
-  </a>
   <a href="https://jamespeeler.netlify.app">
     <img src="https://img.shields.io/badge/Portfolio-2a2d41?style=for-the-badge">
   </a>
