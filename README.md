@@ -16,7 +16,6 @@
 ## About me 🔎
 I am a Full Stack software engineer local to the Chattanooga, TN area!
 
-- I work as a software engineer at 100devs
 - I make fullstack webapps, static sites, landing pages, you name it.
 - In my free time, I keep a small garden, I play video games (Elden Ring is my current obsession), and I do voice acting!
 - You can contact me using the links above!
