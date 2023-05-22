@@ -17,7 +17,7 @@
 I am a Full Stack software engineer local to the Chattanooga, TN area!
 
 - I make fullstack webapps, static sites, landing pages, you name it.
-- In my free time, I keep a small garden, I play video games (Elden Ring is my current obsession), and I do voice acting!
+- In my free time, I keep a small garden, I play video games (Tears of the Kingdom is my current obsession), and I do voice acting!
 - You can contact me using the links above!
 ---
 ### :hammer_and_wrench: Languages and Tools :
