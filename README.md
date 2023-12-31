@@ -14,7 +14,7 @@
 
 ---
 ## About me 🔎
-I am a Full Stack software engineer local to the Chattanooga, TN area!
+I am a Full Stack software engineer local to the Orlando, FL area!
 
 - I make fullstack webapps, static sites, landing pages, you name it.
 - In my free time, I keep a small garden, I play video games (Tears of the Kingdom is my current obsession), and I do voice acting!
