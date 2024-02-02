@@ -32,4 +32,5 @@ I am a Full Stack software engineer local to the Orlando, FL area!
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="php" width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/python-original.svg" title="Python" width="40" height="40">
 </div>
