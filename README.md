@@ -14,7 +14,7 @@
 
 ---
 ## About me 🔎
-I am a Full Stack software engineer local to the Orlando, FL area!
+I am a software engineer local to the Orlando, FL area!
 
 - I make fullstack webapps, static sites, landing pages, you name it.
 - In my free time, I keep a small garden, ride my bike, and study Japanese! はじめまして、よろしくお願いします！！！
