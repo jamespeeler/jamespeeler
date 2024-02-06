@@ -25,6 +25,7 @@ I am a software engineer local to the Orlando, FL area!
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express" width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" width="40" height="40">
