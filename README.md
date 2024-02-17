@@ -4,9 +4,6 @@
   <a href="https://www.linkedin.com/in/james-peeler/">
     <img src="https://img.shields.io/badge/LinkedIn-2a2d41?logo=linkedin&logoColor=white&style=for-the-badge">
   </a>
-  <a href="https://www.twitter.com/james_peeler_">
-    <img src="https://img.shields.io/badge/Twitter-2a2d41?style=for-the-badge&logo=twitter&logoColor=white">
-  </a>
   <a href="https://jamespeeler.netlify.app">
     <img src="https://img.shields.io/badge/Portfolio-2a2d41?style=for-the-badge">
   </a>
