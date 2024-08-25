@@ -11,7 +11,7 @@
 
 ---
 ## About me 🔎
-I am a software engineer local to the Orlando, FL area!
+I am a software engineer!
 
 - In my free time, I keep a small garden, ride my bike, and study Japanese! はじめまして、よろしくお願いします！！！
 - You can contact me using the links above!
